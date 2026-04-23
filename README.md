@@ -20,7 +20,7 @@ The system was modeled and simulated using **OptiSystem**, featuring a complete 
 
 ### 📐 Optical Circuit Design
 The following diagram shows the integrated components of the DPSK transmitter and receiver chain:
-![Optical System Design](Media/image.png)
+![Optical System Design](Media/image3.png)
 
 ### ⚙️ Simulation Parameters
 A rigorous selection of parameters was implemented to ensure realistic fiber-optic transmission modeling:
@@ -33,7 +33,7 @@ The system's efficiency was verified through eye diagrams and BER analysis, demo
 
 ### Eye Diagram Analysis
 The clarity of the received signal was analyzed to ensure minimal Inter-Symbol Interference (ISI):
-![Eye Diagram](Media/image3.png)
+![Eye Diagram](Media/image.png)
 
 ### Q-Factor & BER Results
 The balanced detection method significantly improved the signal-to-noise ratio:
