@@ -1,0 +1,102 @@
+[
+  {
+    "component": "Global",
+    "parameter": "Layout",
+    "value": "DPSK 66%"
+  },
+  {
+    "component": "Global",
+    "parameter": "Sweep Iteration",
+    "value": "1/1"
+  },
+  {
+    "component": "Low Pass Bessel Filter",
+    "parameter": "Cutoff frequency",
+    "value": "0.8 * Bit rate  Hz"
+  },
+  {
+    "component": "Loop Control",
+    "parameter": "Number of loops",
+    "value": "6"
+  },
+  {
+    "component": "Loop Control",
+    "parameter": "Length",
+    "value": "25  km"
+  },
+  {
+    "component": "EDFA Ideal",
+    "parameter": "Gain",
+    "value": "5  dB"
+  },
+  {
+    "component": "EDFA Ideal",
+    "parameter": "Noise figure",
+    "value": "6  dB"
+  },
+  {
+    "component": "EDFA Ideal",
+    "parameter": "Length",
+    "value": "10  km"
+  },
+  {
+    "component": "EDFA Ideal_1",
+    "parameter": "Gain",
+    "value": "5  dB"
+  },
+  {
+    "component": "EDFA Ideal_1",
+    "parameter": "Noise figure",
+    "value": "6  dB"
+  },
+  {
+    "component": "EDFA Ideal_1",
+    "parameter": "Length",
+    "value": "25  km"
+  },
+  {
+    "component": "EDFA Ideal_2",
+    "parameter": "Gain",
+    "value": "5  dB"
+  },
+  {
+    "component": "EDFA Ideal_2",
+    "parameter": "Noise figure",
+    "value": "6  dB"
+  },
+  {
+    "component": "PRBS Generator",
+    "parameter": "Bit rate",
+    "value": "Bit rate  Bits/s"
+  },
+  {
+    "component": "CW Laser",
+    "parameter": "Frequency",
+    "value": "193.1  THz"
+  },
+  {
+    "component": "CW Laser",
+    "parameter": "Power",
+    "value": "4  mW"
+  },
+  {
+    "component": "LiNb MZ Modulator 2",
+    "parameter": "Frequency",
+    "value": "Bit rate/2  Hz"
+  },
+  {
+    "component": "LiNb MZ Modulator 2",
+    "parameter": "Phase",
+    "value": "0  deg"
+  },
+  {
+    "component": "Precoder",
+    "parameter": "Delay",
+    "value": "1  bits"
+  },
+  {
+    "component": "Precoder",
+    "parameter": "Gain",
+    "value": "-1"
+  }
+]
